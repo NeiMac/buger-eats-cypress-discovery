@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "nome": "Nei",
+        "cpf": "00000014141",
+        "email": "teste@teste.com",
+        "whatsapp": "47474747474",
+        "endereco": {
+            "cep": "89066695",
+            "rua": "Rua José Januário",
+            "numero": "50",
+            "complemento": "casa",
+            "bairro": "Itoupavazinha",
+            "cidade_uf": "Blumenau/SC"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "nome": "João da Silva",
+        "cpf": "000000141AA",
+        "email": "teste@teste.com",
+        "whatsapp": "47474747474",
+        "endereco": {
+            "cep": "89066695",
+            "rua": "Rua José Januário",
+            "numero": "50",
+            "complemento": "casa",
+            "bairro": "Itoupavazinha",
+            "cidade_uf": "Blumenau/SC"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "nome": "Nei",
+        "cpf": "00000014141",
+        "email": "teste.com",
+        "whatsapp": "47474747474",
+        "endereco": {
+            "cep": "89066695",
+            "rua": "Rua José Januário",
+            "numero": "50",
+            "complemento": "casa",
+            "bairro": "Itoupavazinha",
+            "cidade_uf": "Blumenau/SC"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
